@@ -55,10 +55,10 @@ public class Vehiculo {
     
     public void mostrar()
     {
-        System.out.println("Matricula : "+matricula);
-        System.out.println("Marca : "+ marca);
-        System.out.println("Modelo : "+modelo);
-        System.out.println("Color : "+color);
+        System.out.println("Matricula: "+matricula);
+        System.out.println("Marca: "+ marca);
+        System.out.println("Modelo: "+modelo);
+        System.out.println("Color: "+color);
         System.out.println("Tarifa: "+tarifa);
         System.out.println("Disponible: "+disponible);
     
